@@ -1,0 +1,9 @@
+SinglePost.jsx:ligne n10-
+{/*PATHNAME IN OUR OBJECT EXP:"/post/64a26g73748hk5lll7" the numbers after it is in order it number [2]after post*/}
+react-social-icons(npm install react-social-icons)
+I had a proxy error between backend and frontend  i fixed to use a different ports(3000 and 3001)(https://www.youtube.com/watch?v=eiVRLGRdPv8)
+
+
+jsdoc-plugin-typescript: https://www.npmjs.com/package/jsdoc-plugin-typescript
+
+Dispatching: https://react-redux.js.org/using-react-redux/connect-mapdispatch

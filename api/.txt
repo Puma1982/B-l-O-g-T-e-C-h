@@ -1,0 +1,14 @@
+Install in terminal (yarn add express mongoose dotenv multer) dotenv=to hide the username and password in passwords in mongodb
+and multer for can add some pictures.
+bcrypt:yarn add bcrypt       this install to hide your password in mongoose db
+we must install library (yarn add nodmon)
+src for learning mongodb(https://www.youtube.com/watch?v=esKNjzDZItQ)
+connection methode code src (https://mongoosejs.com/)
+npm .env src (https://www.npmjs.com/package/dotenv)
+src env (https://www.youtube.com/watch?v=x-SdEjcRPEw)
+To create router we use express framework(npm install express --save)src (https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm)
+-MongooDb learning src (https://www.youtube.com/watch?v=7jH__3ieGS0) & (https://www.pragimtech.com/blog/mongodb-tutorial/getting-started-with-mongodb-database/)
+Timestamps   : src info (https://mongoosejs.com/docs/timestamps.html)
+(yarn add multer) this is a library to upload our files like pictures we can use exp:firebase or amazon,aws,
+I had a proxy error between backend and frontend  i fixed to use a different ports(3000 and 3001)(https://www.youtube.com/watch?v=eiVRLGRdPv8)
+Add another library in index API (yarn add path)

@@ -1,0 +1,23 @@
+txt1
+I INSTALLED :yarn add express mongoose dotenv multer
+mongoo will take a private url from cloud.mongodb.com and will be include our password and
+username .
+-Dot envy: to hide them somewhere inside this folder so nobody can reach them
+-Molter :to install some images
+-created a password and cluster in https://cloud.mongodb.com/v2/61fff91b79da7f1d3b36589e#security/database/users
+-we must creat a application in npm in package.json  (npm init) in terminal you must answer the terminal questions
+-in api file package.json you take off the test ligne (test....) and you change with (  "start": "nodemon index.js")
+-you write (yarn start) and you must get this message in terminal (Backend is running. )
+-in terminal you must code (yarn add nodemon)
+-to hide ower URL WE creat a new file (.env) 
+MONGO_URL = mongodb+srv://<username>:<password>@cluster0.nvxq7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+password : root
+username:blog
+
+  //////////////////////////////////////////////////
+  React Node.js
+1)install axios to fitch data (yarn add axios) you can use JavaScript fetch but in my project i used axios
+2)add "proxy":"http://localhost:3000/api/" to package.json for use my api for ferchingPosts
+
+
+jsdoc-plugin-typescript :https://www.npmjs.com/package/jsdoc-plugin-typescript
